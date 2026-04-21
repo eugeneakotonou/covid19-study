@@ -1,22 +1,29 @@
 # **Étude épidémiologique COVID-19**
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/eugeneakotonou/covid19-study)
+![Repo Size](https://img.shields.io/github/repo-size/eugeneakotonou/covid19-study)
+![Stars](https://img.shields.io/github/stars/eugeneakotonou/covid19-study?style=social)
+![Forks](https://img.shields.io/github/forks/eugeneakotonou/covid19-study?style=social)
+![Issues](https://img.shields.io/github/issues/eugeneakotonou/covid19-study)
 
+---
 ### 🎯 Contexte
+---
 
+J'ai voulu analyser l’évolution de la pandémie COVID 19 afin d’évaluer l’efficacité des mesures de santé publique qui pourrait permettre d’anticiper des besoins futurs par exemple.
 
-J'ai voulu analyser l’évolution de la pandémie COVID 19 afin d’évaluer l’efficacité des mesures de santé publique qui pourrait permettre d’anticiper les besoins futurs par exemple.
+## 🧰 Méthodologie
 
-Objectifs :
-1.	Décrire la situation épidémiologique (cas, décès, guérisons) par pays et par période.
-2.	Identifier les tendances (vagues, pics, ralentissements).
-3.	Calculer des indicateurs épidémiologiques clés (KPI).
-4.	Produire des visualisations claires pour la prise de décision.
-5.	Fournir un rapport synthétique et un tableau de bord interactif.
+- **Sources de données** : Our World in Data (OWID), bases publiques de santé.
+- **Nettoyage des données** : suppression des anomalies, gestion des valeurs manquantes.
+- **Scripts Python** : calculs de KPI, modélisation temporelle.
+- **Dashboard Power BI** : visualisation interactive des résultats.
 
 Introduction 
  
-
-
 📑 Cahier des charges
 
 ##### \- Décrire la dynamique de propagation du virus.
@@ -34,28 +41,24 @@ Introduction
 ### 📂 Organisation du repo
 
 
-
 ##### \- `data/` : jeux de données bruts : sources de données publiques fiables (OMS, Our World in Data).
 
-##### \- `notebooks/` : analyses exploratoires en Python.
+##### \- `notebooks/` : Analyses exploratoires en Python.
 
 ##### \- `power bi/` : Dashboard interactif Power BI.
 
-##### \- `docs/` : rapport des résultats.
-
-##### \- `README.md` : cahier de charges et plan du projet.
+##### \- `docs/` : Rapport des résultats.
 
 # 
 
-### 📊 Livrables attendus
+## 📌 Données disponibles
+Les fichiers volumineux (ex. `owid-covid-data.csv`) ne sont pas inclus dans ce dépôt.  
+Ils peuvent être téléchargés directement depuis [Our World in Data](https://ourworldindata.org/covid-data).
 
+---
 
-
-##### \- Résultats de l'étude et recommandation (PDF).
-
-##### \- Dashboard Power BI (.pbix).
-
-##### \- Notebook Python (EDA).
+## ⚖️ Licence
+Ce projet est sous licence MIT. Vous êtes libre de l’utiliser et de le modifier avec attribution.
 
 
 
