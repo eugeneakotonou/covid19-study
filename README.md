@@ -10,12 +10,12 @@
 ![Issues](https://img.shields.io/github/issues/eugeneakotonou/covid19-study)
 
 ---
-### 🎯 Contexte
+### Contexte
 ---
 
 J'ai voulu analyser l’évolution de la pandémie COVID 19 afin d’évaluer l’efficacité des mesures de santé publique qui pourrait permettre d’anticiper des besoins futurs par exemple.
 
-## 🧰 Méthodologie
+## Méthodologie
 
 - **Sources de données** : Our World in Data (OWID), bases publiques de santé.
 - **Nettoyage des données** : suppression des anomalies, gestion des valeurs manquantes.
@@ -38,7 +38,7 @@ Introduction
 
 # 
 
-### 📂 Organisation du repo
+### Organisation du repo
 
 
 ##### \- `data/` : jeux de données bruts : sources de données publiques fiables (OMS, Our World in Data).
@@ -51,13 +51,13 @@ Introduction
 
 # 
 
-## 📌 Données disponibles
+## Données disponibles
 Les fichiers volumineux (ex. `owid-covid-data.csv`) ne sont pas inclus dans ce dépôt.  
 Ils peuvent être téléchargés directement depuis [Our World in Data](https://ourworldindata.org/covid-data).
 
 ---
 
-## ⚖️ Licence
+## Licence
 Ce projet est sous licence MIT. Vous êtes libre de l’utiliser et de le modifier avec attribution.
 
 
