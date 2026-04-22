@@ -7,7 +7,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/eugeneakotonou/covid19-study)
 ![Stars](https://img.shields.io/github/stars/eugeneakotonou/covid19-study?style=social)
 ![Forks](https://img.shields.io/github/forks/eugeneakotonou/covid19-study?style=social)
-![Issues](https://img.shields.io/github/issues/eugeneakotonou/covid19-study)
+
 
 ---
 ### Contexte
@@ -54,6 +54,13 @@ Cahier des charges
 ## Données disponibles
 Les fichiers volumineux (ex. `owid-covid-data.csv`) ne sont pas inclus dans ce dépôt.  
 Ils peuvent être téléchargés directement depuis [Our World in Data](https://ourworldindata.org/covid-data).
+
+# 
+## Captures d'écran du Tableau de bord
+<img src="images/Dashboard_page1.png" alt="Dashboard COVID-19" width="600">
+<img src="images/Dashboard_page2.png" alt="Dashboard COVID-19" width="600">
+<img src="images/Dashboard_page3.png" alt="Dashboard COVID-19" width="600">
+
 
 ---
 
