@@ -63,10 +63,7 @@ Ils peuvent être téléchargés directement depuis [Our World in Data](https://
 <img src="images/Dashboard_page4.png" alt="Dashboard COVID-19" width="600">
 
 
----
 
-## Licence
-Ce projet est sous licence MIT. Vous êtes libre de l’utiliser et de le modifier avec attribution.
 
 
 
