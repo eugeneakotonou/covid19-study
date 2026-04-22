@@ -1,4 +1,4 @@
-# **Étude épidémiologique COVID-19**
+# **COVID-19 Epidemiological Study**
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
@@ -10,60 +10,54 @@
 
 
 ---
-### Contexte
+### Context
 ---
 
-J'ai voulu analyser l’évolution de la pandémie COVID 19 afin d’évaluer l’efficacité des mesures de santé publique qui pourrait permettre d’anticiper des besoins futurs par exemple.
+I wanted to analyze the evolution of the COVID-19 pandemic in order to evaluate the effectiveness of public health measures that could allow anticipating future needs.
 
-### Méthodologie
+### Methodology
 
-- **Sources de données** : Our World in Data (OWID), bases publiques de santé.
-- **Nettoyage des données** : suppression des anomalies, gestion des valeurs manquantes.
-- **Scripts Python** : calculs de KPI, modélisation temporelle.
-- **Dashboard Power BI** : visualisation interactive des résultats.
+- **Data sources**: Our World in Data (OWID), public health databases.
+- **Data cleaning**: removal of anomalies, handling of missing values.
+- **Python scripts**: KPI calculations, time series modeling.
+- **Power BI Dashboard**: interactive visualization of results.
 
 #
 ### Introduction 
  
-Cahier des charges
+Specifications
 
-##### \- Décrire la dynamique de propagation du virus.
+##### \- Describe the dynamics of virus spread.
 
-##### \- Identifier les tendances temporelles et géographiques.
+##### \- Identify temporal and geographical trends.
 
-##### \- Calculer des indicateurs épidémiologiques (incidence, mortalité, létalité, guérison).
+##### \- Calculate epidemiological indicators (incidence, mortality, lethality, recovery).
 
-##### \- Produire des visualisations interactives (Power BI).
+##### \- Produce interactive visualizations (Power BI).
 
-##### \- Fournir un rapport des résultats documenté.
-
-# 
-
-### Organisation du repo
-
-
-##### \- `data/` : jeux de données bruts : sources de données publiques fiables (OMS, Our World in Data).
-
-##### \- `notebooks/` : Analyses exploratoires en Python.
-
-##### \- `power bi/` : Dashboard interactif Power BI.
-
-##### \- `docs/` : Rapport des résultats.
+##### \- Provide a documented report of the results.
 
 # 
 
-### Données disponibles
-Les fichiers volumineux (ex. `owid-covid-data.csv`) ne sont pas inclus dans ce dépôt.  
-Ils peuvent être téléchargés directement depuis [Our World in Data](https://ourworldindata.org/covid-data).
+### Organization of the repositories
+
+
+##### \- `data/` : raw data sets: reliable public data sources (WHO, Our World in Data).
+
+##### \- `notebooks/` : Exploratory analyses with Python.
+
+##### \- `power bi/` : Interactive Power BI dashboard.
+
+##### \- `docs/` : Results report.
 
 # 
-### Captures d'écran du Tableau de bord
+
+### Available data
+Large files (e.g., `owid-covid-data.csv`) are not included in this repository.
+They can be downloaded directly from [Our World in Data](https://ourworldindata.org/covid-data).
+
+# 
+### Dashboard screenshots
 <img src="images/Dashboard_page1.png" alt="Dashboard COVID-19" width="600">
 <img src="images/Dashboard_page3.png" alt="Dashboard COVID-19" width="600">
 <img src="images/Dashboard_page4.png" alt="Dashboard COVID-19" width="600">
-
-
-
-
-
-
