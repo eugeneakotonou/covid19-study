@@ -15,14 +15,15 @@
 
 J'ai voulu analyser l’évolution de la pandémie COVID 19 afin d’évaluer l’efficacité des mesures de santé publique qui pourrait permettre d’anticiper des besoins futurs par exemple.
 
-## Méthodologie
+### Méthodologie
 
 - **Sources de données** : Our World in Data (OWID), bases publiques de santé.
 - **Nettoyage des données** : suppression des anomalies, gestion des valeurs manquantes.
 - **Scripts Python** : calculs de KPI, modélisation temporelle.
 - **Dashboard Power BI** : visualisation interactive des résultats.
 
-Introduction 
+#
+### Introduction 
  
 Cahier des charges
 
@@ -51,15 +52,15 @@ Cahier des charges
 
 # 
 
-## Données disponibles
+### Données disponibles
 Les fichiers volumineux (ex. `owid-covid-data.csv`) ne sont pas inclus dans ce dépôt.  
 Ils peuvent être téléchargés directement depuis [Our World in Data](https://ourworldindata.org/covid-data).
 
 # 
-## Captures d'écran du Tableau de bord
+### Captures d'écran du Tableau de bord
 <img src="images/Dashboard_page1.png" alt="Dashboard COVID-19" width="600">
-<img src="images/Dashboard_page2.png" alt="Dashboard COVID-19" width="600">
 <img src="images/Dashboard_page3.png" alt="Dashboard COVID-19" width="600">
+<img src="images/Dashboard_page4.png" alt="Dashboard COVID-19" width="600">
 
 
 ---
